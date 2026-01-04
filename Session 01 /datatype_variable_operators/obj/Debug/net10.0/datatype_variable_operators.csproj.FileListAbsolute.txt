@@ -1,0 +1,15 @@
+/home/jah/Desktop/DotNet/Session 01 /datatype_variable_operators/bin/Debug/net10.0/datatype_variable_operators
+/home/jah/Desktop/DotNet/Session 01 /datatype_variable_operators/bin/Debug/net10.0/datatype_variable_operators.deps.json
+/home/jah/Desktop/DotNet/Session 01 /datatype_variable_operators/bin/Debug/net10.0/datatype_variable_operators.runtimeconfig.json
+/home/jah/Desktop/DotNet/Session 01 /datatype_variable_operators/bin/Debug/net10.0/datatype_variable_operators.dll
+/home/jah/Desktop/DotNet/Session 01 /datatype_variable_operators/bin/Debug/net10.0/datatype_variable_operators.pdb
+/home/jah/Desktop/DotNet/Session 01 /datatype_variable_operators/obj/Debug/net10.0/datatype_variable_operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/jah/Desktop/DotNet/Session 01 /datatype_variable_operators/obj/Debug/net10.0/datatype_variable_operators.AssemblyInfoInputs.cache
+/home/jah/Desktop/DotNet/Session 01 /datatype_variable_operators/obj/Debug/net10.0/datatype_variable_operators.AssemblyInfo.cs
+/home/jah/Desktop/DotNet/Session 01 /datatype_variable_operators/obj/Debug/net10.0/datatype_variable_operators.csproj.CoreCompileInputs.cache
+/home/jah/Desktop/DotNet/Session 01 /datatype_variable_operators/obj/Debug/net10.0/datatype_variable_operators.sourcelink.json
+/home/jah/Desktop/DotNet/Session 01 /datatype_variable_operators/obj/Debug/net10.0/datatype_variable_operators.dll
+/home/jah/Desktop/DotNet/Session 01 /datatype_variable_operators/obj/Debug/net10.0/refint/datatype_variable_operators.dll
+/home/jah/Desktop/DotNet/Session 01 /datatype_variable_operators/obj/Debug/net10.0/datatype_variable_operators.pdb
+/home/jah/Desktop/DotNet/Session 01 /datatype_variable_operators/obj/Debug/net10.0/datatype_variable_operators.genruntimeconfig.cache
+/home/jah/Desktop/DotNet/Session 01 /datatype_variable_operators/obj/Debug/net10.0/ref/datatype_variable_operators.dll
