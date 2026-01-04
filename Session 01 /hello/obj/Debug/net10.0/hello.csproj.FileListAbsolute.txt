@@ -1,0 +1,14 @@
+/home/jah/Desktop/DotNet/practice/hello/bin/Debug/net10.0/hello
+/home/jah/Desktop/DotNet/practice/hello/bin/Debug/net10.0/hello.deps.json
+/home/jah/Desktop/DotNet/practice/hello/bin/Debug/net10.0/hello.runtimeconfig.json
+/home/jah/Desktop/DotNet/practice/hello/bin/Debug/net10.0/hello.dll
+/home/jah/Desktop/DotNet/practice/hello/bin/Debug/net10.0/hello.pdb
+/home/jah/Desktop/DotNet/practice/hello/obj/Debug/net10.0/hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/jah/Desktop/DotNet/practice/hello/obj/Debug/net10.0/hello.AssemblyInfoInputs.cache
+/home/jah/Desktop/DotNet/practice/hello/obj/Debug/net10.0/hello.AssemblyInfo.cs
+/home/jah/Desktop/DotNet/practice/hello/obj/Debug/net10.0/hello.csproj.CoreCompileInputs.cache
+/home/jah/Desktop/DotNet/practice/hello/obj/Debug/net10.0/hello.dll
+/home/jah/Desktop/DotNet/practice/hello/obj/Debug/net10.0/refint/hello.dll
+/home/jah/Desktop/DotNet/practice/hello/obj/Debug/net10.0/hello.pdb
+/home/jah/Desktop/DotNet/practice/hello/obj/Debug/net10.0/hello.genruntimeconfig.cache
+/home/jah/Desktop/DotNet/practice/hello/obj/Debug/net10.0/ref/hello.dll
