@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iWCKR+1TfCw=",
+  "dgSpecHash": "Ob+wVKV6JSA=",
   "success": true,
-  "projectFilePath": "/home/jah/Desktop/DotNet/practice/hello/hello.csproj",
+  "projectFilePath": "/home/jah/Desktop/DotNet/Session 01 /welcome/welcome.csproj",
   "expectedPackageFiles": [
     "/home/jah/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
   ],

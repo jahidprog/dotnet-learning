@@ -1,0 +1,15 @@
+/home/jah/Desktop/DotNet/Session 01 /welcome/bin/Debug/net10.0/welcome
+/home/jah/Desktop/DotNet/Session 01 /welcome/bin/Debug/net10.0/welcome.deps.json
+/home/jah/Desktop/DotNet/Session 01 /welcome/bin/Debug/net10.0/welcome.runtimeconfig.json
+/home/jah/Desktop/DotNet/Session 01 /welcome/bin/Debug/net10.0/welcome.dll
+/home/jah/Desktop/DotNet/Session 01 /welcome/bin/Debug/net10.0/welcome.pdb
+/home/jah/Desktop/DotNet/Session 01 /welcome/obj/Debug/net10.0/welcome.GeneratedMSBuildEditorConfig.editorconfig
+/home/jah/Desktop/DotNet/Session 01 /welcome/obj/Debug/net10.0/welcome.AssemblyInfoInputs.cache
+/home/jah/Desktop/DotNet/Session 01 /welcome/obj/Debug/net10.0/welcome.AssemblyInfo.cs
+/home/jah/Desktop/DotNet/Session 01 /welcome/obj/Debug/net10.0/welcome.csproj.CoreCompileInputs.cache
+/home/jah/Desktop/DotNet/Session 01 /welcome/obj/Debug/net10.0/welcome.sourcelink.json
+/home/jah/Desktop/DotNet/Session 01 /welcome/obj/Debug/net10.0/welcome.dll
+/home/jah/Desktop/DotNet/Session 01 /welcome/obj/Debug/net10.0/refint/welcome.dll
+/home/jah/Desktop/DotNet/Session 01 /welcome/obj/Debug/net10.0/welcome.pdb
+/home/jah/Desktop/DotNet/Session 01 /welcome/obj/Debug/net10.0/welcome.genruntimeconfig.cache
+/home/jah/Desktop/DotNet/Session 01 /welcome/obj/Debug/net10.0/ref/welcome.dll

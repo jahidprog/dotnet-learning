@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jah/Desktop/DotNet/practice/hello/hello.csproj",
-      "projectName": "hello",
-      "projectPath": "/home/jah/Desktop/DotNet/practice/hello/hello.csproj",
+      "projectUniqueName": "/home/jah/Desktop/DotNet/Session 01 /welcome/welcome.csproj",
+      "projectName": "welcome",
+      "projectPath": "/home/jah/Desktop/DotNet/Session 01 /welcome/welcome.csproj",
       "packagesPath": "/home/jah/.nuget/packages/",
-      "outputPath": "/home/jah/Desktop/DotNet/practice/hello/obj/",
+      "outputPath": "/home/jah/Desktop/DotNet/Session 01 /welcome/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jah/.nuget/NuGet/NuGet.Config"
