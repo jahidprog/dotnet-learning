@@ -1,0 +1,15 @@
+/home/jah/Desktop/DotNet/Session 01 /namespace/obj/Debug/net10.0/namespace.GeneratedMSBuildEditorConfig.editorconfig
+/home/jah/Desktop/DotNet/Session 01 /namespace/obj/Debug/net10.0/namespace.AssemblyInfoInputs.cache
+/home/jah/Desktop/DotNet/Session 01 /namespace/obj/Debug/net10.0/namespace.AssemblyInfo.cs
+/home/jah/Desktop/DotNet/Session 01 /namespace/obj/Debug/net10.0/namespace.csproj.CoreCompileInputs.cache
+/home/jah/Desktop/DotNet/Session 01 /namespace/obj/Debug/net10.0/namespace.sourcelink.json
+/home/jah/Desktop/DotNet/Session 01 /namespace/bin/Debug/net10.0/namespace
+/home/jah/Desktop/DotNet/Session 01 /namespace/bin/Debug/net10.0/namespace.deps.json
+/home/jah/Desktop/DotNet/Session 01 /namespace/bin/Debug/net10.0/namespace.runtimeconfig.json
+/home/jah/Desktop/DotNet/Session 01 /namespace/bin/Debug/net10.0/namespace.dll
+/home/jah/Desktop/DotNet/Session 01 /namespace/bin/Debug/net10.0/namespace.pdb
+/home/jah/Desktop/DotNet/Session 01 /namespace/obj/Debug/net10.0/namespace.dll
+/home/jah/Desktop/DotNet/Session 01 /namespace/obj/Debug/net10.0/refint/namespace.dll
+/home/jah/Desktop/DotNet/Session 01 /namespace/obj/Debug/net10.0/namespace.pdb
+/home/jah/Desktop/DotNet/Session 01 /namespace/obj/Debug/net10.0/namespace.genruntimeconfig.cache
+/home/jah/Desktop/DotNet/Session 01 /namespace/obj/Debug/net10.0/ref/namespace.dll
