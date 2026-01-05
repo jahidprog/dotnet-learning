@@ -1,0 +1,15 @@
+/home/jah/Desktop/DotNet/Session 01 /array_list/bin/Debug/net10.0/array_list
+/home/jah/Desktop/DotNet/Session 01 /array_list/bin/Debug/net10.0/array_list.deps.json
+/home/jah/Desktop/DotNet/Session 01 /array_list/bin/Debug/net10.0/array_list.runtimeconfig.json
+/home/jah/Desktop/DotNet/Session 01 /array_list/bin/Debug/net10.0/array_list.dll
+/home/jah/Desktop/DotNet/Session 01 /array_list/bin/Debug/net10.0/array_list.pdb
+/home/jah/Desktop/DotNet/Session 01 /array_list/obj/Debug/net10.0/array_list.GeneratedMSBuildEditorConfig.editorconfig
+/home/jah/Desktop/DotNet/Session 01 /array_list/obj/Debug/net10.0/array_list.AssemblyInfoInputs.cache
+/home/jah/Desktop/DotNet/Session 01 /array_list/obj/Debug/net10.0/array_list.AssemblyInfo.cs
+/home/jah/Desktop/DotNet/Session 01 /array_list/obj/Debug/net10.0/array_list.csproj.CoreCompileInputs.cache
+/home/jah/Desktop/DotNet/Session 01 /array_list/obj/Debug/net10.0/array_list.sourcelink.json
+/home/jah/Desktop/DotNet/Session 01 /array_list/obj/Debug/net10.0/array_list.dll
+/home/jah/Desktop/DotNet/Session 01 /array_list/obj/Debug/net10.0/refint/array_list.dll
+/home/jah/Desktop/DotNet/Session 01 /array_list/obj/Debug/net10.0/array_list.pdb
+/home/jah/Desktop/DotNet/Session 01 /array_list/obj/Debug/net10.0/array_list.genruntimeconfig.cache
+/home/jah/Desktop/DotNet/Session 01 /array_list/obj/Debug/net10.0/ref/array_list.dll
