@@ -1,0 +1,15 @@
+/home/jah/Desktop/Files/CodeCampAshtaIT/dotnet-learning/Session 01 /GradeCalculator_Procedural/bin/Debug/net10.0/GradeCalculator_Procedural
+/home/jah/Desktop/Files/CodeCampAshtaIT/dotnet-learning/Session 01 /GradeCalculator_Procedural/bin/Debug/net10.0/GradeCalculator_Procedural.deps.json
+/home/jah/Desktop/Files/CodeCampAshtaIT/dotnet-learning/Session 01 /GradeCalculator_Procedural/bin/Debug/net10.0/GradeCalculator_Procedural.runtimeconfig.json
+/home/jah/Desktop/Files/CodeCampAshtaIT/dotnet-learning/Session 01 /GradeCalculator_Procedural/bin/Debug/net10.0/GradeCalculator_Procedural.dll
+/home/jah/Desktop/Files/CodeCampAshtaIT/dotnet-learning/Session 01 /GradeCalculator_Procedural/bin/Debug/net10.0/GradeCalculator_Procedural.pdb
+/home/jah/Desktop/Files/CodeCampAshtaIT/dotnet-learning/Session 01 /GradeCalculator_Procedural/obj/Debug/net10.0/GradeCalculator_Procedural.GeneratedMSBuildEditorConfig.editorconfig
+/home/jah/Desktop/Files/CodeCampAshtaIT/dotnet-learning/Session 01 /GradeCalculator_Procedural/obj/Debug/net10.0/GradeCalculator_Procedural.AssemblyInfoInputs.cache
+/home/jah/Desktop/Files/CodeCampAshtaIT/dotnet-learning/Session 01 /GradeCalculator_Procedural/obj/Debug/net10.0/GradeCalculator_Procedural.AssemblyInfo.cs
+/home/jah/Desktop/Files/CodeCampAshtaIT/dotnet-learning/Session 01 /GradeCalculator_Procedural/obj/Debug/net10.0/GradeCalculator_Procedural.csproj.CoreCompileInputs.cache
+/home/jah/Desktop/Files/CodeCampAshtaIT/dotnet-learning/Session 01 /GradeCalculator_Procedural/obj/Debug/net10.0/GradeCalculator_Procedural.sourcelink.json
+/home/jah/Desktop/Files/CodeCampAshtaIT/dotnet-learning/Session 01 /GradeCalculator_Procedural/obj/Debug/net10.0/GradeCalculator_Procedural.dll
+/home/jah/Desktop/Files/CodeCampAshtaIT/dotnet-learning/Session 01 /GradeCalculator_Procedural/obj/Debug/net10.0/refint/GradeCalculator_Procedural.dll
+/home/jah/Desktop/Files/CodeCampAshtaIT/dotnet-learning/Session 01 /GradeCalculator_Procedural/obj/Debug/net10.0/GradeCalculator_Procedural.pdb
+/home/jah/Desktop/Files/CodeCampAshtaIT/dotnet-learning/Session 01 /GradeCalculator_Procedural/obj/Debug/net10.0/GradeCalculator_Procedural.genruntimeconfig.cache
+/home/jah/Desktop/Files/CodeCampAshtaIT/dotnet-learning/Session 01 /GradeCalculator_Procedural/obj/Debug/net10.0/ref/GradeCalculator_Procedural.dll
